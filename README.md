@@ -5,3 +5,4 @@ The recorded emails only include communications among the members of the institu
 This dataset also includes "ground-truth" community membership information for each node. 
 Each individual belongs to one of the 42 departments within the research institution.
 
+https://snap.stanford.edu/data/email-Eu-core.html
